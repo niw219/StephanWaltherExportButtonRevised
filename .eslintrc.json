@@ -1,0 +1,4 @@
+// https://github.com/stefanwalther/sense-export/blob/master/.eslintrc.json
+{
+  "extends": "eslint-config-space-single/browser"
+}
