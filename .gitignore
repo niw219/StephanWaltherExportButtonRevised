@@ -1,0 +1,27 @@
+# https://github.com/stefanwalther/sense-export/blob/master/.gitignore
+# =========================
+# Project specific
+# =========================
+/**/node_modules/
+/**/bower_components/
+/try/
+.tmp
+.sense-go.local.yml
+
+build/dev
+build/release
+
+# =========================
+# IDEs
+# =========================
+.idea/
+.vscode/
+
+# =========================
+# Windows detritus
+# =========================
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac crap
+.DS_Store
